@@ -4,11 +4,12 @@
 TableSide is a proof-of-concept cloud based POS system designed for use on mobile devices.  This project was designed and built over three days as part of the <a href='https://www.epicodus.com/'>Epicodus</a> Angular module.
 
 ### TableSide Team:
+- <a href='https://www.linkedin.com/in/mathew-akre29/'>Mathew Akre</a>
 - <a href="www.linkedin.com/in/dustin-herboldshimer">Dustin Herboldshimer</a>
 - <a href="https://www.linkedin.com/in/fluentzap/">Todd Aden</a>
 - <a href="www.linkedin.com/in/darrionkg">Darrion Gering</a> 
 - <a href="https://www.linkedin.com/in/kerriann-walker-813198167/">Kerriann Walker</a>
-- <a href='https://www.linkedin.com/in/mathew-akre29/'>Mathew Akre</a>
+
 
 ### deployment link goes here
 
